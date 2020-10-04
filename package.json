@@ -7,10 +7,9 @@
     "test": " \"echo \\\"Error: no test specified\\\" && exit 1\"",
     "start": "node --experimental-modules App.js"
   },
-  "type": "module",
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/AlisonDuan/DJ4D.git"
+    "type": "module",
+    "url": "https://github.com/AlisonDuan/DJ4D.git"
   },
   "author": "Alison Duan <aduan06@gmail.com>",
   "license": "ISC",

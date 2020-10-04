@@ -1,0 +1,19 @@
+{
+  "name": "dj4d",
+  "version": "1.0.0",
+  "description": "\"lounge-style webpage\"",
+  "main": "App.js",
+  "scripts": {
+    "test": " \"echo \\\"Error: no test specified\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlisonDuan/DJ4D.git"
+  },
+  "author": "Alison Duan <aduan06@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlisonDuan/DJ4D/issues"
+  },
+  "homepage": "https://github.com/AlisonDuan/DJ4D#readme"
+}

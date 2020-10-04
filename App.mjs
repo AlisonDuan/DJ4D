@@ -1,4 +1,4 @@
-import * as WorldRenderer from "./WorldRenderer.js";
+import * as WorldRenderer from "./WorldRenderer.mjs";
 
 var players = {}
 

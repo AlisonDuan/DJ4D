@@ -23,8 +23,8 @@ scene.add(camera)
 camera.position.z -= 5; // Pulling it back from the origin a bit
 // Various materials:
 var loader = new THREE.TextureLoader()
-var woodTexture = loader.load('http://localhost:8000/textures/woodpanel.gif');
-var floorTexture = loader.load('http://localhost:8000/textures/00_brickywood.png');
+var woodTexture = loader.load('http://localhost:8000/textures/wall/00_brickywoodwall.png');
+var floorTexture = loader.load('http://localhost:8000/textures/floor/00_brickywood.png');
 floorTexture.wrapS = THREE.RepeatWrapping;
 floorTexture.wrapT = THREE.RepeatWrapping;
 floorTexture.repeat.set(16, 16);

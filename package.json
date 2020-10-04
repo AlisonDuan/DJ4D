@@ -8,8 +8,13 @@
     "start": "node --experimental-modules App.js"
   },
   "repository": {
-    "type": "module",
+    "type": "git",
     "url": "https://github.com/AlisonDuan/DJ4D.git"
+  },
+  "dependencies": {
+    "esm": "^3.2.25",
+    "nengi": "1.13.1",
+    "pixi.js": "^5.1.5"
   },
   "author": "Alison Duan <aduan06@gmail.com>",
   "license": "ISC",
